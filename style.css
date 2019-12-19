@@ -1,0 +1,61 @@
+#h2{font-size: 60px;
+    font-family: "Luminari";
+    color:white;
+    text-align: left}
+
+#horoscope{
+    font-size: 60px;
+    font-family: "Edwardian Script ITC";
+    color: white;
+    text-align: center;
+}
+
+#description{
+    font-size: 20px;
+    font-family: "Luminari";
+    color: white;
+    text-align: center;
+}
+
+h2{
+    color:white;
+    text-align: center;
+}
+
+h5{
+    color:white;
+    text-align: center;
+}
+
+/*#month{*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+/*}*/
+
+/*#day{*/
+    /*margin-left: auto;*/
+    /*margin-right: auto;*/
+/*}*/
+
+#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*body {*/
+    /*background-color: #facade;*/
+/*}*/
+
+body{
+    background-image: url("img/space.jpg");
+}
+
+#oneDiv {
+    position: relative;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    color: white;
+}
+
